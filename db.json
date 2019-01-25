@@ -1,0 +1,19 @@
+{
+    "variants": [
+        {
+            "sku": 1,
+            "data": "<div>test1</div>",
+            "sale": true
+        },
+        {
+            "sku": 2,
+            "data": "<div>test2</div>",
+            "sale": false
+        },
+        {
+            "sku": 3,
+            "data": "<div>test3</div>",
+            "sale": true
+        }
+    ]
+}
