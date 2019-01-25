@@ -1,17 +1,17 @@
 {
     "variants": [
         {
-            "id": 1,
+            "sku": 1,
             "data": "<div>test1</div>",
             "sale": true
         },
         {
-            "id": 2,
+            "sku": 2,
             "data": "<div>test2</div>",
             "sale": false
         },
         {
-            "id": 3,
+            "sku": 3,
             "data": "<div>test3</div>",
             "sale": true
         }
