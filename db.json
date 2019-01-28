@@ -11,8 +11,8 @@
             "sale": false
         },
         {
-            "sku": 3,
-            "data": "<div>test3</div>",
+            "sku": 531916,
+            "data": "<div>test-<i>531916</i></div>",
             "sale": true
         }
     ]
