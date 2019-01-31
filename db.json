@@ -3,8 +3,8 @@
         {
             "sku": 1,
             "snippets": {
-                cartAndInfo: {
-                    content: "<div>test1</div>",
+                "cartAndInfo": {
+                    "content": "<div>test1</div>",
                 },
             },
             "sale": true
@@ -17,8 +17,8 @@
         {
             "sku": 531918,
             "snippets": {
-                cartAndInfo: {
-                    content: "<div>test-<i>531918</i></div>",
+                "cartAndInfo": {
+                    "content": "<div>test-<i>531918</i></div>",
                 },
             },
             "sale": true
