@@ -2,7 +2,11 @@
     "variants": [
         {
             "sku": 1,
-            "data": "<div>test1</div>",
+            "snippets": {
+                cartAndInfo: {
+                    content: "<div>test1</div>",
+                },
+            },
             "sale": true
         },
         {
@@ -12,7 +16,11 @@
         },
         {
             "sku": 531918,
-            "data": "<div>test-<i>531918</i></div>",
+            "snippets": {
+                cartAndInfo: {
+                    content: "<div>test-<i>531918</i></div>",
+                },
+            },
             "sale": true
         }
     ]
